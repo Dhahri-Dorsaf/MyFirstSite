@@ -1,0 +1,40 @@
+*{margin:0;}
+
+
+body{
+margin:0;
+font-family:'Merriweather', serif; ;
+
+
+text-align:center;
+}
+.top-container{
+  
+margin-top: 0;
+background-color: #CDF0EA;
+position: relative;
+    padding-top: 100px;
+   
+}
+h1,h2{
+    margin: 0 auto;
+    width:40%;
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+    margin:0 auto;
+    color: #66BFBF;
+}
+.bottom-cloud{
+    position: absolute;
+    left:700px ;
+}
+.top-cloud{
+    position: absolute;left: 200px;
+}
+.me{
+    width: 200px;
+    height: 200px;
+}
+h3,a{
+    color: #11999E;
+}
